@@ -1,95 +1,50 @@
 {
-  "timestamp": "2026-03-02T09:00:09.609004",
-  "n_signals": 6,
+  "timestamp": "2026-03-03T09:00:11.991195",
+  "n_signals": 3,
   "signals": [
     {
-      "timestamp": "2026-03-02T09:00:09.608953",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:unknown",
-      "market_name": "UNKNOWN markets",
-      "direction": "BUY_YES",
-      "confidence": 0.9,
-      "edge_estimate": 1.2923661032412368,
-      "reasoning": "UNKNOWN +258.5% WoW. Money flowing in. Look for lagging YES prices.",
-      "paradigm_data": {
-        "category": "UNKNOWN",
-        "delta": 258.4732206482474,
-        "volume": 1258679565.1599982
-      }
-    },
-    {
-      "timestamp": "2026-03-02T09:00:09.608967",
+      "timestamp": "2026-03-03T09:00:11.991165",
       "signal_type": "FLOW_MOMENTUM",
       "market_id": "category:politics",
       "market_name": "Politics markets",
       "direction": "BUY_YES",
       "confidence": 0.9,
-      "edge_estimate": 0.41335524900414033,
-      "reasoning": "Politics +82.7% WoW. Money flowing in. Look for lagging YES prices.",
+      "edge_estimate": 0.4953076287459323,
+      "reasoning": "Politics +99.1% WoW. Money flowing in. Look for lagging YES prices.",
       "paradigm_data": {
         "category": "Politics",
-        "delta": 82.67104980082807,
-        "volume": 686183089.228345
+        "delta": 99.06152574918646,
+        "volume": 768290376.2998712
       }
     },
     {
-      "timestamp": "2026-03-02T09:00:09.608973",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:culture",
-      "market_name": "Culture markets",
-      "direction": "BUY_NO",
-      "confidence": 0.9,
-      "edge_estimate": 0.25929976835353763,
-      "reasoning": "Culture -51.9% WoW. Money exiting. Look for overpriced YES.",
-      "paradigm_data": {
-        "category": "Culture",
-        "delta": -51.859953670707526,
-        "volume": 80532331.03660502
-      }
-    },
-    {
-      "timestamp": "2026-03-02T09:00:09.608970",
+      "timestamp": "2026-03-03T09:00:11.991153",
       "signal_type": "FLOW_MOMENTUM",
       "market_id": "category:crypto",
       "market_name": "Crypto markets",
-      "direction": "BUY_NO",
-      "confidence": 0.8389750256801719,
-      "edge_estimate": 0.19448751284008597,
-      "reasoning": "Crypto -38.9% WoW. Money exiting. Look for overpriced YES.",
+      "direction": "BUY_YES",
+      "confidence": 0.7125075923724994,
+      "edge_estimate": 0.13125379618624972,
+      "reasoning": "Crypto +26.3% WoW. Money flowing in. Look for lagging YES prices.",
       "paradigm_data": {
         "category": "Crypto",
-        "delta": -38.897502568017195,
-        "volume": 339003722.333129
+        "delta": 26.250759237249945,
+        "volume": 966992994.1692514
       }
     },
     {
-      "timestamp": "2026-03-02T09:00:09.608975",
+      "timestamp": "2026-03-03T09:00:11.991169",
       "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:economics",
-      "market_name": "Economics markets",
-      "direction": "BUY_YES",
-      "confidence": 0.722648138211233,
-      "edge_estimate": 0.13632406910561648,
-      "reasoning": "Economics +27.3% WoW. Money flowing in. Look for lagging YES prices.",
-      "paradigm_data": {
-        "category": "Economics",
-        "delta": 27.264813821123298,
-        "volume": 54863546.04247
-      }
-    },
-    {
-      "timestamp": "2026-03-02T09:00:09.608962",
-      "signal_type": "HOT_MONEY",
       "market_id": "category:unknown",
       "market_name": "UNKNOWN markets",
-      "direction": "HOLD",
-      "confidence": 0.5,
-      "edge_estimate": 0.0,
-      "reasoning": "UNKNOWN V/OI = 3.6. Active speculation. Trade momentum, not value.",
+      "direction": "BUY_NO",
+      "confidence": 0.617256614487462,
+      "edge_estimate": 0.08362830724373102,
+      "reasoning": "UNKNOWN -16.7% WoW. Money exiting. Look for overpriced YES.",
       "paradigm_data": {
         "category": "UNKNOWN",
-        "voi_ratio": 3.5847322064824736,
-        "volume": 1258679565.1599982
+        "delta": -16.725661448746205,
+        "volume": 23036346.509128004
       }
     }
   ]
