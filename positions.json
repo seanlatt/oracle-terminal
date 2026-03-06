@@ -1,10 +1,10 @@
 {
-  "updated": "2026-03-06T12:08:00-05:00",
+  "updated": "2026-03-06T16:02:00-05:00",
   "portfolio": {
-    "totalValue": 1067.14,
+    "totalValue": 1067.11,
     "cash": 959.73,
-    "positionsValue": 107.41,
-    "allTimePnL": 435.24
+    "positionsValue": 107.37,
+    "allTimePnL": 435.16
   },
   "track_record": {
     "wins": 5,
@@ -51,35 +51,35 @@
     {
       "market": "Will Trump meet with Putin by March 31, 2026?",
       "side": "YES",
-      "currentPrice": 0.031,
+      "currentPrice": 0.0305,
       "avgPrice": 0.091,
       "shares": 3303.0,
       "value": 100.74,
       "cost": 300.00,
-      "pnl": -199.25,
-      "pnlPercent": -66.42
+      "pnl": -199.17,
+      "pnlPercent": -66.4
     },
     {
       "market": "BitBoy convicted?",
       "side": "NO",
-      "currentPrice": 0.873,
+      "currentPrice": 0.8635,
       "avgPrice": 0.38,
       "shares": 4.9,
-      "value": 4.25,
+      "value": 4.20,
       "cost": 1.85,
-      "pnl": 2.40,
-      "pnlPercent": 129.61
+      "pnl": 2.35,
+      "pnlPercent": 127.3
     },
     {
       "market": "Will Claude 5 be released by March 31, 2026?",
       "side": "NO",
-      "currentPrice": 0.906,
+      "currentPrice": 0.911,
       "avgPrice": 0.375,
       "shares": 2.7,
-      "value": 2.42,
+      "value": 2.43,
       "cost": 1.00,
-      "pnl": 1.42,
-      "pnlPercent": 141.60
+      "pnl": 1.43,
+      "pnlPercent": 143.0
     }
   ]
 }
