@@ -136,7 +136,6 @@ const MODEL_ALIASES = {
   'opus': 'anthropic/claude-opus-4-5',
   'sonnet': 'anthropic/claude-sonnet-4-20250514',
   'haiku': 'anthropic/claude-haiku',
-  'hermes': 'nous/Hermes-4.3-36B',
 };
 
 // API: trigger model switch (for local use only)

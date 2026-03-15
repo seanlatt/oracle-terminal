@@ -16,8 +16,6 @@ const MODEL_COSTS = {
   'claude-opus-4-5': { input: 15, output: 75 },
   'claude-sonnet-4': { input: 3, output: 15 },
   'claude-haiku': { input: 0.25, output: 1.25 },
-  'hermes-4.3-36b': { input: 0.03, output: 0.10 },
-  'hermes-4-70b': { input: 0.05, output: 0.20 },
   'gpt-4o': { input: 2.5, output: 10 },
 };
 
