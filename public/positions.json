@@ -12,7 +12,7 @@
     },
     {
       "market": "BitBoy convicted?",
-      "side": "No",
+      "side": "No", 
       "shares": 4.86842,
       "avgPrice": 0.379999,
       "currentPrice": 1,
@@ -23,13 +23,24 @@
     {
       "market": "Will Claude 5 be released by March 31, 2026?",
       "side": "No",
-      "shares": 2.666665,
+      "shares": 2.666665, 
       "avgPrice": 0.374999,
       "currentPrice": 1,
       "value": "2.67",
-      "pnl": "1.67",
+      "pnl": "1.67", 
       "pnlPercent": "166.7"
     }
   ],
-  "lastSync": "2026-04-01T20:27:07.501Z"
+  "portfolio": {
+    "totalValue": "1047.11",
+    "cash": "959.73", 
+    "positionsValue": "87.38",
+    "allTimePnL": "415.05"
+  },
+  "track_record": {
+    "winRate": "75%",
+    "totalPnL": "415.05",
+    "record": "3-1"
+  },
+  "lastSync": "2026-04-01T20:53:00.000Z"
 }
