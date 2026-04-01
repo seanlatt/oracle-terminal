@@ -3,33 +3,33 @@
     {
       "market": "Will Trump meet with Putin by March 31, 2026?",
       "side": "Yes",
-      "shares": 3303.0178,
-      "avgPrice": 0.0908,
-      "currentPrice": 0.0245,
-      "value": "80.92",
-      "pnl": "-219.08",
-      "pnlPercent": "-73.0"
+      "shares": 3303.017856,
+      "avgPrice": 0.090826,
+      "currentPrice": 0,
+      "value": "0.00",
+      "pnl": "-300.00",
+      "pnlPercent": "-100.0"
     },
     {
       "market": "BitBoy convicted?",
       "side": "No",
-      "shares": 4.8684,
-      "avgPrice": 0.38,
-      "currentPrice": 0.824,
-      "value": "4.01",
-      "pnl": "2.16",
-      "pnlPercent": "116.8"
+      "shares": 4.86842,
+      "avgPrice": 0.379999,
+      "currentPrice": 1,
+      "value": "4.87",
+      "pnl": "3.02",
+      "pnlPercent": "163.2"
     },
     {
       "market": "Will Claude 5 be released by March 31, 2026?",
       "side": "No",
-      "shares": 2.6666,
-      "avgPrice": 0.375,
-      "currentPrice": 0.9255,
-      "value": "2.47",
-      "pnl": "1.47",
-      "pnlPercent": "146.8"
+      "shares": 2.666665,
+      "avgPrice": 0.374999,
+      "currentPrice": 1,
+      "value": "2.67",
+      "pnl": "1.67",
+      "pnlPercent": "166.7"
     }
   ],
-  "lastSync": "2026-03-15T12:25:00.000Z"
+  "lastSync": "2026-04-01T20:27:07.501Z"
 }
