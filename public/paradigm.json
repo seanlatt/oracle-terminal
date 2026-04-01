@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-04-01T20:33:47.983Z",
+  "period": {
+    "start": "2026-03-25",
+    "end": "2026-04-01"
+  },
+  "categories": {
+    "Sports": {
+      "currentVolume": 3162670966.210331,
+      "previousVolume": 4130127325.8951135,
+      "weekOverWeekDelta": -23.424371292841627,
+      "volumeOIRatio": 0.7657562870715837
+    },
+    "Crypto": {
+      "currentVolume": 876394290.392839,
+      "previousVolume": 943109056.5424943,
+      "weekOverWeekDelta": -7.073918513118353,
+      "volumeOIRatio": 0.9292608148688165
+    },
+    "Politics": {
+      "currentVolume": 486599398.9187999,
+      "previousVolume": 426132730.01628685,
+      "weekOverWeekDelta": 14.189632629298854,
+      "volumeOIRatio": 1.1418963262929887
+    },
+    "Culture": {
+      "currentVolume": 134260054.687414,
+      "previousVolume": 111064357.57539,
+      "weekOverWeekDelta": 20.884915393562565,
+      "volumeOIRatio": 1.2088491539356256
+    },
+    "Financials": {
+      "currentVolume": 79063113.45497401,
+      "previousVolume": 74167850.39516897,
+      "weekOverWeekDelta": 6.600249344861552,
+      "volumeOIRatio": 1.0660024934486154
+    },
+    "STEM": {
+      "currentVolume": 75892663.24363098,
+      "previousVolume": 73654334.86065201,
+      "weekOverWeekDelta": 3.0389635412684064,
+      "volumeOIRatio": 1.030389635412684
+    },
+    "UNKNOWN": {
+      "currentVolume": 65544134.218355,
+      "previousVolume": 2828086.3111540005,
+      "weekOverWeekDelta": 2217.6143514378714,
+      "volumeOIRatio": 23.176143514378715
+    },
+    "Economics": {
+      "currentVolume": 50197830.55108502,
+      "previousVolume": 101193195.08715896,
+      "weekOverWeekDelta": -50.39406502794086,
+      "volumeOIRatio": 0.4960593497205914
+    }
+  },
+  "deltas": [
+    {
+      "category": "UNKNOWN",
+      "delta": 2217.6143514378714
+    },
+    {
+      "category": "Culture",
+      "delta": 20.884915393562565
+    },
+    {
+      "category": "Politics",
+      "delta": 14.189632629298854
+    },
+    {
+      "category": "Financials",
+      "delta": 6.600249344861552
+    },
+    {
+      "category": "STEM",
+      "delta": 3.0389635412684064
+    },
+    {
+      "category": "Crypto",
+      "delta": -7.073918513118353
+    },
+    {
+      "category": "Sports",
+      "delta": -23.424371292841627
+    },
+    {
+      "category": "Economics",
+      "delta": -50.39406502794086
+    }
+  ]
+}
