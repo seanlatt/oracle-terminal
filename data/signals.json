@@ -1,111 +1,28 @@
-{
-  "timestamp": "2026-03-06T09:00:10.550572",
-  "n_signals": 7,
-  "signals": [
-    {
-      "timestamp": "2026-03-06T09:00:10.550527",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:unknown",
-      "market_name": "UNKNOWN markets",
-      "direction": "BUY_YES",
-      "confidence": 0.9,
-      "edge_estimate": 0.4052909352187666,
-      "reasoning": "UNKNOWN +81.1% WoW. Money flowing in. Look for lagging YES prices.",
-      "paradigm_data": {
-        "category": "UNKNOWN",
-        "delta": 81.05818704375332,
-        "volume": 48387738.103823006
-      }
-    },
-    {
-      "timestamp": "2026-03-06T09:00:10.550497",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:politics",
-      "market_name": "Politics markets",
-      "direction": "BUY_YES",
-      "confidence": 0.9,
-      "edge_estimate": 0.40023307047300244,
-      "reasoning": "Politics +80.0% WoW. Money flowing in. Look for lagging YES prices.",
-      "paradigm_data": {
-        "category": "Politics",
-        "delta": 80.04661409460049,
-        "volume": 835416560.805735
-      }
-    },
-    {
-      "timestamp": "2026-03-06T09:00:10.550533",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:early_polymarket_trades",
-      "market_name": "Early Polymarket Trades markets",
-      "direction": "BUY_NO",
-      "confidence": 0.9,
-      "edge_estimate": 0.32305003317828274,
-      "reasoning": "Early Polymarket Trades -64.6% WoW. Money exiting. Look for overpriced YES.",
-      "paradigm_data": {
-        "category": "Early Polymarket Trades",
-        "delta": -64.61000663565655,
-        "volume": 7927.510692
-      }
-    },
-    {
-      "timestamp": "2026-03-06T09:00:10.550520",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:economics",
-      "market_name": "Economics markets",
-      "direction": "BUY_YES",
-      "confidence": 0.9,
-      "edge_estimate": 0.2851256473684991,
-      "reasoning": "Economics +57.0% WoW. Money flowing in. Look for lagging YES prices.",
-      "paradigm_data": {
-        "category": "Economics",
-        "delta": 57.02512947369982,
-        "volume": 76988522.67637102
-      }
-    },
-    {
-      "timestamp": "2026-03-06T09:00:10.550515",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:culture",
-      "market_name": "Culture markets",
-      "direction": "BUY_YES",
-      "confidence": 0.6263245746073652,
-      "edge_estimate": 0.08816228730368261,
-      "reasoning": "Culture +17.6% WoW. Money flowing in. Look for lagging YES prices.",
-      "paradigm_data": {
-        "category": "Culture",
-        "delta": 17.63245746073652,
-        "volume": 167126733.39260393
-      }
-    },
-    {
-      "timestamp": "2026-03-06T09:00:10.550529",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:financials",
-      "market_name": "Financials markets",
-      "direction": "BUY_YES",
-      "confidence": 0.616280275616419,
-      "edge_estimate": 0.08314013780820946,
-      "reasoning": "Financials +16.6% WoW. Money flowing in. Look for lagging YES prices.",
-      "paradigm_data": {
-        "category": "Financials",
-        "delta": 16.628027561641893,
-        "volume": 43544677.159009
-      }
-    },
-    {
-      "timestamp": "2026-03-06T09:00:10.550524",
-      "signal_type": "FLOW_MOMENTUM",
-      "market_id": "category:stem",
-      "market_name": "STEM markets",
-      "direction": "BUY_NO",
-      "confidence": 0.6123580147153687,
-      "edge_estimate": 0.08117900735768431,
-      "reasoning": "STEM -16.2% WoW. Money exiting. Look for overpriced YES.",
-      "paradigm_data": {
-        "category": "STEM",
-        "delta": -16.235801471536863,
-        "volume": 56736796.67617601
-      }
-    }
-  ]
-}
+
+═══════════════════════════════════════════
+  PARADIGM × POLYMARKET SIGNAL SCANNER
+═══════════════════════════════════════════
+  4/1/2026, 4:26:50 PM
+
+  🟢 UNKNOWN      | INFLOW     +2217.6%
+     V/OI: 23.18 | STRONG
+     → LOOK FOR LAGGING MARKETS
+
+  🔥 UNKNOWN      | HOT_MONEY  +2217.6%
+     V/OI: 23.18 | VERY_HOT
+     → MOMENTUM PLAY
+
+  🔴 Economics    | OUTFLOW     -50.4%
+     V/OI: 0.50 | STRONG
+     → CONSIDER EXITS
+
+  🔴 Sports       | OUTFLOW     -23.4%
+     V/OI: 0.77 | MODERATE
+     → CONSIDER EXITS
+
+  🟢 Culture      | INFLOW      +20.9%
+     V/OI: 1.21 | MODERATE
+     → LOOK FOR LAGGING MARKETS
+
+═══════════════════════════════════════════
+

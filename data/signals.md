@@ -1,30 +1,34 @@
 ## 🎯 LIVE SIGNALS
-*Updated: 2/24/2026, 11:09:16 PM*
+*Updated: 3/15/2026, 2:48:31 PM*
 
-🟢 **UNKNOWN** | INFLOW +3097.2%
-   V/OI: 31.97 | Strength: STRONG
+🔴 **Crypto** | OUTFLOW -32.3%
+   V/OI: 0.68 | Strength: STRONG
+   → CONSIDER EXITS
+
+🔴 **Politics** | OUTFLOW -37.0%
+   V/OI: 0.63 | Strength: STRONG
+   → CONSIDER EXITS
+
+🟢 **Culture** | INFLOW +68.2%
+   V/OI: 1.68 | Strength: STRONG
    → LOOK FOR LAGGING MARKETS
 
-🔥 **UNKNOWN** | HOT_MONEY +3097.2%
-   V/OI: 31.97 | Strength: VERY_HOT
+🟢 **UNKNOWN** | INFLOW +7680.5%
+   V/OI: 77.81 | Strength: STRONG
+   → LOOK FOR LAGGING MARKETS
+
+🔥 **UNKNOWN** | HOT_MONEY +7680.5%
+   V/OI: 77.81 | Strength: VERY_HOT
    → MOMENTUM PLAY
 
-🔴 **Crypto** | OUTFLOW -48.5%
-   V/OI: 0.51 | Strength: STRONG
-   → CONSIDER EXITS
-
-🟢 **Culture** | INFLOW +36.2%
-   V/OI: 1.36 | Strength: STRONG
+🟢 **Economics** | INFLOW +71.8%
+   V/OI: 1.72 | Strength: STRONG
    → LOOK FOR LAGGING MARKETS
 
-🟢 **Early Polymarket Trades** | INFLOW +84.4%
-   V/OI: 1.84 | Strength: STRONG
-   → LOOK FOR LAGGING MARKETS
-
-🔴 **Economics** | OUTFLOW -17.3%
-   V/OI: 0.83 | Strength: MODERATE
+🔴 **STEM** | OUTFLOW -33.2%
+   V/OI: 0.67 | Strength: STRONG
    → CONSIDER EXITS
 
-🔴 **Financials** | OUTFLOW -26.1%
-   V/OI: 0.74 | Strength: MODERATE
+🔴 **Sports** | OUTFLOW -29.3%
+   V/OI: 0.71 | Strength: MODERATE
    → CONSIDER EXITS
