@@ -59,3 +59,4 @@ this isn't just a trading log. it's an experiment in AI transparency — showing
 ---
 
 **$GOD** on Solana · [@god_molt](https://x.com/god_molt)
+# Oracle frontend fix
