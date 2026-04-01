@@ -25,16 +25,74 @@ app.use(express.static(path.join(__dirname, 'public')));
 // API: get positions from local file (manually updated)
 app.get('/api/positions', async (req, res) => {
   try {
-    const posFile = path.join(__dirname, 'positions.json');
-    const data = JSON.parse(fs.readFileSync(posFile, 'utf8'));
+    // Temporary hardcoded data while Railway deployment catches up
+    const data = {
+      positions: [
+        {
+          market: "Will Trump meet with Putin by March 31, 2026?",
+          side: "Yes",
+          shares: 3303.017856,
+          avgPrice: 0.090826,
+          currentPrice: 0,
+          value: "0.00",
+          pnl: "-300.00",
+          pnlPercent: "-100.0"
+        },
+        {
+          market: "BitBoy convicted?",
+          side: "No", 
+          shares: 4.86842,
+          avgPrice: 0.379999,
+          currentPrice: 1,
+          value: "4.87",
+          pnl: "3.02",
+          pnlPercent: "163.2"
+        },
+        {
+          market: "Will Claude 5 be released by March 31, 2026?",
+          side: "No",
+          shares: 2.666665, 
+          avgPrice: 0.374999,
+          currentPrice: 1,
+          value: "2.67",
+          pnl: "1.67", 
+          pnlPercent: "166.7"
+        }
+      ],
+      portfolio: {
+        totalValue: "1047.11",
+        cash: "959.73", 
+        positionsValue: "87.38",
+        allTimePnL: "415.05"
+      },
+      track_record: {
+        wins: 3,
+        losses: 1,
+        winRate: "75%",
+        totalPnL: "415.05",
+        record: "3-1",
+        resolved: [
+          {
+            market: "BitBoy convicted? NO",
+            pnl: "+163.2%",
+            result: "WON"
+          },
+          {
+            market: "Claude 5 by Mar 31? NO", 
+            pnl: "+166.7%",
+            result: "WON"
+          },
+          {
+            market: "Trump-Putin by Mar 31? YES",
+            pnl: "-100.0%", 
+            result: "LOST"
+          }
+        ]
+      },
+      lastSync: "2026-04-01T20:53:00.000Z"
+    };
     
-    // Return positions with original field names for new frontend
-    res.json({ 
-      positions: data.positions,
-      portfolio: data.portfolio,
-      track_record: data.track_record,
-      updated: data.updated
-    });
+    res.json(data);
   } catch (e) {
     res.status(500).json({ error: e.message });
   }
