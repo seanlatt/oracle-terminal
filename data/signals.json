@@ -1,28 +1,79 @@
-
-═══════════════════════════════════════════
-  PARADIGM × POLYMARKET SIGNAL SCANNER
-═══════════════════════════════════════════
-  4/1/2026, 4:26:50 PM
-
-  🟢 UNKNOWN      | INFLOW     +2217.6%
-     V/OI: 23.18 | STRONG
-     → LOOK FOR LAGGING MARKETS
-
-  🔥 UNKNOWN      | HOT_MONEY  +2217.6%
-     V/OI: 23.18 | VERY_HOT
-     → MOMENTUM PLAY
-
-  🔴 Economics    | OUTFLOW     -50.4%
-     V/OI: 0.50 | STRONG
-     → CONSIDER EXITS
-
-  🔴 Sports       | OUTFLOW     -23.4%
-     V/OI: 0.77 | MODERATE
-     → CONSIDER EXITS
-
-  🟢 Culture      | INFLOW      +20.9%
-     V/OI: 1.21 | MODERATE
-     → LOOK FOR LAGGING MARKETS
-
-═══════════════════════════════════════════
-
+{
+  "timestamp": "2026-04-18T23:24:42.646Z",
+  "signals": [
+    {
+      "type": "INFLOW",
+      "category": "UNKNOWN",
+      "delta": "+1934.3%",
+      "voiRatio": "20.34",
+      "strength": "STRONG",
+      "action": "LOOK FOR LAGGING MARKETS",
+      "tags": [
+        "unknown"
+      ]
+    },
+    {
+      "type": "HOT_MONEY",
+      "category": "UNKNOWN",
+      "delta": "+1934.3%",
+      "voiRatio": "20.34",
+      "strength": "VERY_HOT",
+      "action": "MOMENTUM PLAY",
+      "tags": [
+        "unknown"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
+      "category": "Politics",
+      "delta": "-44.6%",
+      "voiRatio": "0.55",
+      "strength": "STRONG",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "politics",
+        "trump",
+        "elections",
+        "congress"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
+      "category": "Crypto",
+      "delta": "-26.7%",
+      "voiRatio": "0.73",
+      "strength": "MODERATE",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "defi"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
+      "category": "Culture",
+      "delta": "-23.3%",
+      "voiRatio": "0.77",
+      "strength": "MODERATE",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "culture",
+        "entertainment",
+        "celebrities"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
+      "category": "STEM",
+      "delta": "-19.5%",
+      "voiRatio": "0.81",
+      "strength": "MODERATE",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "stem"
+      ]
+    }
+  ]
+}
