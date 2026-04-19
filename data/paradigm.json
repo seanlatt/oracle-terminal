@@ -1,91 +1,91 @@
 {
-  "timestamp": "2026-04-18T23:24:42.634Z",
+  "timestamp": "2026-04-19T00:54:36.029Z",
   "period": {
-    "start": "2026-04-11",
-    "end": "2026-04-18"
+    "start": "2026-04-12",
+    "end": "2026-04-19"
   },
   "categories": {
     "Sports": {
-      "currentVolume": 3398802083.467405,
-      "previousVolume": 3905875130.1671367,
-      "weekOverWeekDelta": -12.982315865229252,
-      "volumeOIRatio": 0.8701768413477075
-    },
-    "Crypto": {
-      "currentVolume": 517268055.0144802,
-      "previousVolume": 706100958.4212378,
-      "weekOverWeekDelta": -26.74304589940888,
-      "volumeOIRatio": 0.7325695410059112
+      "currentVolume": 3297792924.975702,
+      "previousVolume": 3973420506.788327,
+      "weekOverWeekDelta": -17.003676823491503,
+      "volumeOIRatio": 0.8299632317650849
     },
     "UNKNOWN": {
-      "currentVolume": 511486718.076194,
-      "previousVolume": 25143058.847826,
-      "weekOverWeekDelta": 1934.3058542394488,
-      "volumeOIRatio": 20.343058542394488
+      "currentVolume": 661428236.31723,
+      "previousVolume": 27437852.023187995,
+      "weekOverWeekDelta": 2310.6414589533124,
+      "volumeOIRatio": 24.106414589533124
+    },
+    "Crypto": {
+      "currentVolume": 476877956.2650999,
+      "previousVolume": 712703060.4845849,
+      "weekOverWeekDelta": -33.0888300183728,
+      "volumeOIRatio": 0.6691116998162719
     },
     "Politics": {
-      "currentVolume": 449701657.52484304,
-      "previousVolume": 811233358.69296,
-      "weekOverWeekDelta": -44.565684743365125,
-      "volumeOIRatio": 0.5543431525663487
+      "currentVolume": 429170969.6025088,
+      "previousVolume": 827111960.3471358,
+      "weekOverWeekDelta": -48.11210692414757,
+      "volumeOIRatio": 0.5188789307585243
     },
     "Culture": {
-      "currentVolume": 134911282.790931,
-      "previousVolume": 175944920.52261302,
-      "weekOverWeekDelta": -23.32186550756846,
-      "volumeOIRatio": 0.7667813449243154
+      "currentVolume": 122247290.53033197,
+      "previousVolume": 188187667.450877,
+      "weekOverWeekDelta": -35.03969086484245,
+      "volumeOIRatio": 0.6496030913515756
     },
     "Economics": {
-      "currentVolume": 57023020.968719006,
-      "previousVolume": 62665480.374533996,
-      "weekOverWeekDelta": -9.004095033009552,
-      "volumeOIRatio": 0.9099590496699045
+      "currentVolume": 58925909.79146399,
+      "previousVolume": 61400136.482203014,
+      "weekOverWeekDelta": -4.029676206755959,
+      "volumeOIRatio": 0.9597032379324404
     },
     "Financials": {
-      "currentVolume": 53688867.167385,
-      "previousVolume": 48245133.963741,
-      "weekOverWeekDelta": 11.283486553763701,
-      "volumeOIRatio": 1.112834865537637
+      "currentVolume": 54930207.27103595,
+      "previousVolume": 49112827.519437,
+      "weekOverWeekDelta": 11.844929411357242,
+      "volumeOIRatio": 1.1184492941135724
     },
     "STEM": {
-      "currentVolume": 44569853.48586903,
-      "previousVolume": 55339050.346770026,
-      "weekOverWeekDelta": -19.460393326987337,
-      "volumeOIRatio": 0.8053960667301266
+      "currentVolume": 40370443.75143199,
+      "previousVolume": 56375815.78115501,
+      "weekOverWeekDelta": -28.390492994113288,
+      "volumeOIRatio": 0.7160950700588671
     }
   },
   "deltas": [
     {
       "category": "UNKNOWN",
-      "delta": 1934.3058542394488
+      "delta": 2310.6414589533124
     },
     {
       "category": "Financials",
-      "delta": 11.283486553763701
+      "delta": 11.844929411357242
     },
     {
       "category": "Economics",
-      "delta": -9.004095033009552
+      "delta": -4.029676206755959
     },
     {
       "category": "Sports",
-      "delta": -12.982315865229252
+      "delta": -17.003676823491503
     },
     {
       "category": "STEM",
-      "delta": -19.460393326987337
-    },
-    {
-      "category": "Culture",
-      "delta": -23.32186550756846
+      "delta": -28.390492994113288
     },
     {
       "category": "Crypto",
-      "delta": -26.74304589940888
+      "delta": -33.0888300183728
+    },
+    {
+      "category": "Culture",
+      "delta": -35.03969086484245
     },
     {
       "category": "Politics",
-      "delta": -44.565684743365125
+      "delta": -48.11210692414757
     }
   ]
 }

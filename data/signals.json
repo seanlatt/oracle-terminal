@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-18T23:24:42.646Z",
+  "timestamp": "2026-04-19T00:54:36.035Z",
   "signals": [
     {
       "type": "INFLOW",
       "category": "UNKNOWN",
-      "delta": "+1934.3%",
-      "voiRatio": "20.34",
+      "delta": "+2310.6%",
+      "voiRatio": "24.11",
       "strength": "STRONG",
       "action": "LOOK FOR LAGGING MARKETS",
       "tags": [
@@ -15,8 +15,8 @@
     {
       "type": "HOT_MONEY",
       "category": "UNKNOWN",
-      "delta": "+1934.3%",
-      "voiRatio": "20.34",
+      "delta": "+2310.6%",
+      "voiRatio": "24.11",
       "strength": "VERY_HOT",
       "action": "MOMENTUM PLAY",
       "tags": [
@@ -25,9 +25,23 @@
     },
     {
       "type": "OUTFLOW",
+      "category": "Crypto",
+      "delta": "-33.1%",
+      "voiRatio": "0.67",
+      "strength": "STRONG",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "defi"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
       "category": "Politics",
-      "delta": "-44.6%",
-      "voiRatio": "0.55",
+      "delta": "-48.1%",
+      "voiRatio": "0.52",
       "strength": "STRONG",
       "action": "CONSIDER EXITS",
       "tags": [
@@ -39,24 +53,10 @@
     },
     {
       "type": "OUTFLOW",
-      "category": "Crypto",
-      "delta": "-26.7%",
-      "voiRatio": "0.73",
-      "strength": "MODERATE",
-      "action": "CONSIDER EXITS",
-      "tags": [
-        "crypto",
-        "bitcoin",
-        "ethereum",
-        "defi"
-      ]
-    },
-    {
-      "type": "OUTFLOW",
       "category": "Culture",
-      "delta": "-23.3%",
-      "voiRatio": "0.77",
-      "strength": "MODERATE",
+      "delta": "-35.0%",
+      "voiRatio": "0.65",
+      "strength": "STRONG",
       "action": "CONSIDER EXITS",
       "tags": [
         "culture",
@@ -66,9 +66,23 @@
     },
     {
       "type": "OUTFLOW",
+      "category": "Sports",
+      "delta": "-17.0%",
+      "voiRatio": "0.83",
+      "strength": "MODERATE",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "sports",
+        "nba",
+        "nfl",
+        "soccer"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
       "category": "STEM",
-      "delta": "-19.5%",
-      "voiRatio": "0.81",
+      "delta": "-28.4%",
+      "voiRatio": "0.72",
       "strength": "MODERATE",
       "action": "CONSIDER EXITS",
       "tags": [
