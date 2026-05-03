@@ -1,91 +1,9 @@
 {
-  "timestamp": "2026-04-19T15:24:28.304Z",
+  "timestamp": "2026-05-03T00:31:11.051Z",
   "period": {
-    "start": "2026-04-12",
-    "end": "2026-04-19"
+    "start": "2026-04-26",
+    "end": "2026-05-03"
   },
-  "categories": {
-    "Sports": {
-      "currentVolume": 3297792924.975702,
-      "previousVolume": 3973420506.788327,
-      "weekOverWeekDelta": -17.003676823491503,
-      "volumeOIRatio": 0.8299632317650849
-    },
-    "UNKNOWN": {
-      "currentVolume": 661428236.31723,
-      "previousVolume": 27437852.023187995,
-      "weekOverWeekDelta": 2310.6414589533124,
-      "volumeOIRatio": 24.106414589533124
-    },
-    "Crypto": {
-      "currentVolume": 476877956.2650999,
-      "previousVolume": 712703060.4845849,
-      "weekOverWeekDelta": -33.0888300183728,
-      "volumeOIRatio": 0.6691116998162719
-    },
-    "Politics": {
-      "currentVolume": 429170969.6025088,
-      "previousVolume": 827111960.3471358,
-      "weekOverWeekDelta": -48.11210692414757,
-      "volumeOIRatio": 0.5188789307585243
-    },
-    "Culture": {
-      "currentVolume": 122247290.53033197,
-      "previousVolume": 188187667.450877,
-      "weekOverWeekDelta": -35.03969086484245,
-      "volumeOIRatio": 0.6496030913515756
-    },
-    "Economics": {
-      "currentVolume": 58925909.79146399,
-      "previousVolume": 61400136.482203014,
-      "weekOverWeekDelta": -4.029676206755959,
-      "volumeOIRatio": 0.9597032379324404
-    },
-    "Financials": {
-      "currentVolume": 54930207.27103595,
-      "previousVolume": 49112827.519437,
-      "weekOverWeekDelta": 11.844929411357242,
-      "volumeOIRatio": 1.1184492941135724
-    },
-    "STEM": {
-      "currentVolume": 40370443.75143199,
-      "previousVolume": 56375815.78115501,
-      "weekOverWeekDelta": -28.390492994113288,
-      "volumeOIRatio": 0.7160950700588671
-    }
-  },
-  "deltas": [
-    {
-      "category": "UNKNOWN",
-      "delta": 2310.6414589533124
-    },
-    {
-      "category": "Financials",
-      "delta": 11.844929411357242
-    },
-    {
-      "category": "Economics",
-      "delta": -4.029676206755959
-    },
-    {
-      "category": "Sports",
-      "delta": -17.003676823491503
-    },
-    {
-      "category": "STEM",
-      "delta": -28.390492994113288
-    },
-    {
-      "category": "Crypto",
-      "delta": -33.0888300183728
-    },
-    {
-      "category": "Culture",
-      "delta": -35.03969086484245
-    },
-    {
-      "category": "Politics",
-      "delta": -48.11210692414757
-    }
-  ]
+  "categories": {},
+  "deltas": []
 }
