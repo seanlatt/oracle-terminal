@@ -1,4 +1,57 @@
 {
-  "timestamp": "2026-05-03T00:31:11.055Z",
-  "signals": []
+  "timestamp": "2026-05-03T02:03:23.801Z",
+  "signals": [
+    {
+      "type": "OUTFLOW",
+      "category": "Politics",
+      "delta": "-35.3%",
+      "voiRatio": "0.65",
+      "strength": "STRONG",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "politics",
+        "trump",
+        "elections",
+        "congress"
+      ]
+    },
+    {
+      "type": "INFLOW",
+      "category": "Economics",
+      "delta": "+48.9%",
+      "voiRatio": "1.49",
+      "strength": "STRONG",
+      "action": "LOOK FOR LAGGING MARKETS",
+      "tags": [
+        "economy",
+        "fed",
+        "inflation",
+        "markets"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
+      "category": "Culture",
+      "delta": "-44.2%",
+      "voiRatio": "0.56",
+      "strength": "STRONG",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "culture",
+        "entertainment",
+        "celebrities"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
+      "category": "STEM",
+      "delta": "-21.4%",
+      "voiRatio": "0.79",
+      "strength": "MODERATE",
+      "action": "CONSIDER EXITS",
+      "tags": [
+        "stem"
+      ]
+    }
+  ]
 }
