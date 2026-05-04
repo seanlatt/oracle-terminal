@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-03T23:54:29.347Z",
+  "timestamp": "2026-05-04T00:24:27.871Z",
   "signals": [
     {
       "type": "OUTFLOW",
       "category": "Politics",
-      "delta": "-35.3%",
-      "voiRatio": "0.65",
+      "delta": "-40.0%",
+      "voiRatio": "0.60",
       "strength": "STRONG",
       "action": "CONSIDER EXITS",
       "tags": [
@@ -17,23 +17,20 @@
     },
     {
       "type": "INFLOW",
-      "category": "Economics",
-      "delta": "+48.9%",
-      "voiRatio": "1.49",
+      "category": "Financials",
+      "delta": "+67.3%",
+      "voiRatio": "1.67",
       "strength": "STRONG",
       "action": "LOOK FOR LAGGING MARKETS",
       "tags": [
-        "economy",
-        "fed",
-        "inflation",
-        "markets"
+        "financials"
       ]
     },
     {
       "type": "OUTFLOW",
       "category": "Culture",
-      "delta": "-44.2%",
-      "voiRatio": "0.56",
+      "delta": "-40.6%",
+      "voiRatio": "0.59",
       "strength": "STRONG",
       "action": "CONSIDER EXITS",
       "tags": [
@@ -45,8 +42,8 @@
     {
       "type": "OUTFLOW",
       "category": "STEM",
-      "delta": "-21.4%",
-      "voiRatio": "0.79",
+      "delta": "-22.1%",
+      "voiRatio": "0.78",
       "strength": "MODERATE",
       "action": "CONSIDER EXITS",
       "tags": [

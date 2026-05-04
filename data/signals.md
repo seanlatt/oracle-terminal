@@ -1,18 +1,18 @@
 ## 🎯 LIVE SIGNALS
-*Updated: 5/3/2026, 7:54:29 PM*
+*Updated: 5/3/2026, 8:24:27 PM*
 
-🔴 **Politics** | OUTFLOW -35.3%
-   V/OI: 0.65 | Strength: STRONG
+🔴 **Politics** | OUTFLOW -40.0%
+   V/OI: 0.60 | Strength: STRONG
    → CONSIDER EXITS
 
-🟢 **Economics** | INFLOW +48.9%
-   V/OI: 1.49 | Strength: STRONG
+🟢 **Financials** | INFLOW +67.3%
+   V/OI: 1.67 | Strength: STRONG
    → LOOK FOR LAGGING MARKETS
 
-🔴 **Culture** | OUTFLOW -44.2%
-   V/OI: 0.56 | Strength: STRONG
+🔴 **Culture** | OUTFLOW -40.6%
+   V/OI: 0.59 | Strength: STRONG
    → CONSIDER EXITS
 
-🔴 **STEM** | OUTFLOW -21.4%
-   V/OI: 0.79 | Strength: MODERATE
+🔴 **STEM** | OUTFLOW -22.1%
+   V/OI: 0.78 | Strength: MODERATE
    → CONSIDER EXITS
