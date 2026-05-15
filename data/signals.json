@@ -1,13 +1,38 @@
 {
-  "timestamp": "2026-05-04T12:36:48.441Z",
+  "timestamp": "2026-05-15T07:54:37.356Z",
   "signals": [
     {
-      "type": "OUTFLOW",
+      "type": "INFLOW",
       "category": "Politics",
-      "delta": "-40.0%",
-      "voiRatio": "0.60",
+      "delta": "+101.3%",
+      "voiRatio": "2.01",
+      "strength": "STRONG",
+      "action": "LOOK FOR LAGGING MARKETS",
+      "tags": [
+        "politics",
+        "trump",
+        "elections",
+        "congress"
+      ]
+    },
+    {
+      "type": "OUTFLOW",
+      "category": "Financials",
+      "delta": "-55.8%",
+      "voiRatio": "0.44",
       "strength": "STRONG",
       "action": "CONSIDER EXITS",
+      "tags": [
+        "financials"
+      ]
+    },
+    {
+      "type": "HOT_MONEY",
+      "category": "Politics",
+      "delta": "+101.3%",
+      "voiRatio": "2.01",
+      "strength": "HOT",
+      "action": "MOMENTUM PLAY",
       "tags": [
         "politics",
         "trump",
@@ -17,22 +42,22 @@
     },
     {
       "type": "INFLOW",
-      "category": "Financials",
-      "delta": "+67.3%",
-      "voiRatio": "1.67",
-      "strength": "STRONG",
+      "category": "UNKNOWN",
+      "delta": "+19.4%",
+      "voiRatio": "1.19",
+      "strength": "MODERATE",
       "action": "LOOK FOR LAGGING MARKETS",
       "tags": [
-        "financials"
+        "unknown"
       ]
     },
     {
-      "type": "OUTFLOW",
+      "type": "INFLOW",
       "category": "Culture",
-      "delta": "-40.6%",
-      "voiRatio": "0.59",
-      "strength": "STRONG",
-      "action": "CONSIDER EXITS",
+      "delta": "+30.0%",
+      "voiRatio": "1.30",
+      "strength": "MODERATE",
+      "action": "LOOK FOR LAGGING MARKETS",
       "tags": [
         "culture",
         "entertainment",
@@ -40,14 +65,17 @@
       ]
     },
     {
-      "type": "OUTFLOW",
-      "category": "STEM",
-      "delta": "-22.1%",
-      "voiRatio": "0.78",
+      "type": "INFLOW",
+      "category": "Economics",
+      "delta": "+21.8%",
+      "voiRatio": "1.22",
       "strength": "MODERATE",
-      "action": "CONSIDER EXITS",
+      "action": "LOOK FOR LAGGING MARKETS",
       "tags": [
-        "stem"
+        "economy",
+        "fed",
+        "inflation",
+        "markets"
       ]
     }
   ]
